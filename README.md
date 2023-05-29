@@ -33,7 +33,10 @@
 ![CLI](./images/cli.png)
 ![Logo](./images/generated-logo.png)
 
-https://drive.google.com/file/d/1PWMk2QIfjElub9zRXrg1Sh1qAUK-UNq7/view
+![Video] (https://drive.google.com/file/d/1PWMk2QIfjElub9zRXrg1Sh1qAUK-UNq7/view)
+https://github.com/SLAYsian/OOP-I-did-it-again/assets/127693250/673623be-f991-4aa0-9234-56b9c1a0faad
+
+
 
   ## RESOURCES
 ---
