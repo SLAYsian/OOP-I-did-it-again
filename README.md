@@ -4,11 +4,13 @@
 
   ## DESCRIPTION
 ---
-  An easy way to generate a simple logo by answering command line prompts!
+  An easy way to generate a simple logo for your projects by answering command line prompts!
   
   ## TABLE OF CONTENTS
 ---
+- [Logo Generator](#logo-generator)
   - [DESCRIPTION](#description)
+  - [TABLE OF CONTENTS](#table-of-contents)
   - [USAGE](#usage)
   - [RESOURCES](#resources)
   - [LICENSE](#license)
