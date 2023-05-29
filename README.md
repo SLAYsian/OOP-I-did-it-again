@@ -33,7 +33,7 @@
 ![CLI](./images/cli.png)
 ![Logo](./images/generated-logo.png)
 
-https://watch.screencastify.com/v/0S84dwiTmgXybInbs31M
+https://drive.google.com/file/d/1PWMk2QIfjElub9zRXrg1Sh1qAUK-UNq7/view
 
   ## RESOURCES
 ---
