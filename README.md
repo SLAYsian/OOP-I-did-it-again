@@ -8,9 +8,7 @@
   
   ## TABLE OF CONTENTS
 ---
-- [Logo Generator](#logo-generator)
   - [DESCRIPTION](#description)
-  - [TABLE OF CONTENTS](#table-of-contents)
   - [USAGE](#usage)
   - [RESOURCES](#resources)
   - [LICENSE](#license)
@@ -31,6 +29,9 @@
   - Answer each prompt that appears in the command line
   - Your logo will generate to the logo.svg file in the examples directory
   - Open the file in your browser to view your new logo!
+
+![CLI](./images/cli.png)
+![Logo](./images/generated-logo.png)
 
   ## RESOURCES
 ---
@@ -59,6 +60,10 @@
   ## TESTS
 ---
   There are tests for each shape. You can enter npm test in your command line to run the tests.
+
+![Test Image](./images/test.png)
+![Test Image](./images/test2.png)
+
 
   ## QUESTIONS
 ---
