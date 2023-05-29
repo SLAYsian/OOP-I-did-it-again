@@ -33,6 +33,8 @@
 ![CLI](./images/cli.png)
 ![Logo](./images/generated-logo.png)
 
+https://watch.screencastify.com/v/0S84dwiTmgXybInbs31M
+
   ## RESOURCES
 ---
 1. UConn Coding Bootcamp - Module 10 OOP
